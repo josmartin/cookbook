@@ -1,0 +1,18 @@
+languageCode = "en-us"
+title = "The Croft Cookbook"
+baseurl = "http://cookbook.bedewell.com"
+paginate = 12 # To specify a multiple of 3
+copyright = "© 2017 <a class=\"sitename\" href=\"http://www.bedewell.com/\">bedewell.com</a>"
+
+theme = "cookbook-theme"
+
+[params]
+  description = "A cookbook for the masses" # optional
+  twitter = "josmartin1" # optional
+  github = "josmartin" # optional
+  headerCover = "images/headerCover.jpg" # optional
+  footerCover = "images/footerCover.jpg"
+  
+[taxonomies]
+  course = "courses"
+  tag = "tags"
