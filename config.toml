@@ -4,7 +4,7 @@ baseurl = "http://cookbook.bedewell.com"
 paginate = 6 # To specify a multiple of 3
 copyright = "© 2017 bedewell.com"
 
-theme = "material-design"
+theme = "cookbook-theme"
 
 [params]
   description = "A cookbook for the masses" # optional
