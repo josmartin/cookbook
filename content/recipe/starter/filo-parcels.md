@@ -3,7 +3,7 @@ date = "2017-01-29T12:43:43Z"
 title = "Filo Parcels"
 draft = false
 tags = ["pastry"]
-courses = ["starter"]
+courses = ["starters"]
 +++
 ### Ingredients
 * 1 packet Filo pastry Required filling

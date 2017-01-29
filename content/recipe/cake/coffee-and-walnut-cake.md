@@ -3,7 +3,7 @@ date = "2017-01-29T12:46:23Z"
 title = "Coffee and Walnut Cake"
 draft = false
 tags = ["coffee"]
-courses = ["cake"]
+courses = ["cakes"]
 +++
 ### Ingredients
 #### Cake

@@ -3,7 +3,7 @@ draft = false
 date = "2017-01-29T12:06:46Z"
 title = "Gazpacho Soup"
 tags = [ "cold", "soup" ]
-courses = ["starter"]
+courses = ["starters"]
 +++
 
 ### Ingredients

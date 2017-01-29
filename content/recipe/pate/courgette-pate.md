@@ -3,7 +3,7 @@ date = "2017-01-29T12:50:04Z"
 title = "Courgette Pate"
 draft = false
 tags = ["pate"]
-courses = ["starter"]
+courses = ["starters"]
 +++
 
 ### Ingredients
