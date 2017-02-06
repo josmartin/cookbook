@@ -9,13 +9,16 @@ courses = ["Pudding"]
 
 
 ### Ingredients
-- 4 Tbsp Plain flour
-- 3 Tbsp Granulated white sugar
-- 1 Tbsp Butter
-- 1 l Milk (2 pint)
-- 2 Egg(s)
-- 2 tsp Vanilla essence
+
+    4 Tbsp Plain flour
+    3 Tbsp Granulated white sugar
+    1 Tbsp Butter
+    1 l Milk (2 pint)
+    2 Egg(s)
+    2 tsp Vanilla essence
+	
 ### Method
+
 Heat the oven to 150°C (300°F, Gas Mark 2).
 Cream the butter and sugar and then add the flour. The amounts make this
 quite difficult but do the best you can. Bring the milk to a boil, taking care not
@@ -29,5 +32,5 @@ golden brown.
 We serve this warm with a spoonful of golden syrup, but this is optional. It is
 also good cold.
 
-#### Notes
+##### Notes
 If the mixture gets lumpy push it through a sieve and stir until smooth.

@@ -4,16 +4,15 @@ title = "Afghans"
 categories = []
 tags = []
 courses = ["biscuits"]
+ingredients = [
+	"175 gm Butter or margarine (7 oz)", 
+	"75 gm Plain flour (7 oz)",
+	"75 gm Granulated white sugar (3 oz)",
+	"75 gm Cornflakes (3 oz)",
+	"1 Tbsp Cocoa",
+	"1 tsp Baking powder",
+	"1 tsp Vanilla essence"]
 +++
-
-### Ingredients
-- 175 gm Butter or margarine (7 oz) 
-- 175 gm Plain flour (7 oz)
-- 75 gm Granulated white sugar (3 oz)
-- 75 gm Cornflakes (3 oz)
-- 1 Tbsp Cocoa
-- 1 tsp Baking powder
-- 1 tsp Vanilla essence
 
 ### Method
 
