@@ -1,7 +1,7 @@
 +++
 date = "2017-01-29T22:35:04Z"
 title = "Apple Crumble Cake"
-courses = ["Puddings"]
+courses = ["Pudding"]
 +++
 
 ### Ingredients

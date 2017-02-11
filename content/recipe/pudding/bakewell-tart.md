@@ -3,7 +3,7 @@ date = "2017-01-29T22:39:06Z"
 title = "Bakewell Tart"
 categories = []
 tags = []
-courses = ["Puddings"]
+courses = ["Pudding"]
 
 +++
 
