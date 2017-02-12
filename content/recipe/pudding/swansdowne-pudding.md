@@ -4,20 +4,16 @@ title = "Swansdowne Pudding"
 categories = []
 tags = []
 courses = ["Pudding"]
-
+ingredients = [
+    "4 Tbsp Plain flour",
+    "3 Tbsp Granulated white sugar",
+    "1 Tbsp Butter",
+    "1 l Milk (2 pint)",
+    "2 Egg(s)",
+    "2 tsp Vanilla essence"]
 +++
 
-
-### Ingredients
-
-    4 Tbsp Plain flour
-    3 Tbsp Granulated white sugar
-    1 Tbsp Butter
-    1 l Milk (2 pint)
-    2 Egg(s)
-    2 tsp Vanilla essence
-	
-### Method
+##### Method
 
 Heat the oven to 150°C (300°F, Gas Mark 2).
 Cream the butter and sugar and then add the flour. The amounts make this

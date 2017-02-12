@@ -3,19 +3,17 @@ tags = []
 date = "2017-01-29T22:29:21Z"
 title = "Caramel Squares"
 courses = ["biscuits"]
+ingredients = [
+    "100 gm Butter (4 oz)",
+    "50 gm Granulated white sugar (2 oz)",
+    "200 gm Mixed dried fruit (8 oz)",
+    "1 Egg(s)",
+    "1 tsp Vanilla essence", 
+    "400 gm Condensed milk (14 oz)",
+    "200 gm Marie biscuits (8 oz)"]
 +++
 
-
-### Ingredients
-- 100 gm Butter (4 oz) 
-- 50 gm Granulated white sugar (2 oz)
-- 200 gm Mixed dried fruit (8 oz)
-- 1 Egg(s)
-- 1 tsp Vanilla essence 
-- 400 gm Condensed milk (14 oz)
-- 200 gm Marie biscuits (8 oz)
-
-### Method
+##### Method
 
 Melt the butter and sugar in a saucepan. Add the tin of condensed milk and
 the dried fruit and bring to the boil, stirring constantly to avoid the mixture

@@ -14,7 +14,7 @@ ingredients = [
 	"1 tsp Vanilla essence"]
 +++
 
-### Method
+##### Method
 
 Pre-heat the oven to 200°C (400°F, Gas Mark 6).
 

@@ -4,13 +4,15 @@ title = "Baked Custard"
 courses = ["Pudding"]
 tags = []
 ingredients = [
-	"500 ml Milk (1 pint) 2 tsp Vanilla essence",
-	"2 Egg(s) 2 Tbsp Caster sugar",
+	"500 ml Milk (1 pint)",
+	"2 tsp Vanilla essence",
+	"2 Egg(s)", 
+	"2 Tbsp Caster sugar",
 	"Nutmeg (grated)"]
 
 +++
 
-#### Method
+##### Method
 Preheat the oven to 150°C (300°F, Gas Mark 2).
 Heat the milk until a skin forms on the surface (ie scald the milk). Beat the
 egss and sugar until frothy, then add the vanilla essence and milk, beating

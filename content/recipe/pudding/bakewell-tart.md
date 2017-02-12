@@ -4,19 +4,16 @@ title = "Bakewell Tart"
 categories = []
 tags = []
 courses = ["Pudding"]
-
+ingredients = [
+    "100 gm Ground almonds (4 oz)",
+    "100 gm Butter or margarine (4 oz)",
+    "100 gm Caster sugar (4 oz)", 
+    "2 Egg(s)",
+    "1 tsp Almond essence",
+    "Shortcrust pastry"]
 +++
 
-
-### Ingredients
-- 100 gm Ground almonds (4 oz)
-- 100 gm Butter or margarine (4 oz)
-- 100 gm Caster sugar (4 oz) 
-- 2 Egg(s)
-- 1 tsp Almond essence 
-- Shortcrust pastry
-
-### Method
+##### Method
 Preheat the oven to 200°C (400°F, Gas Mark 6).
 First line a flan dish with shortcrust pastry - see recipe for Shortcrust Pastry
 or buy ready made. Spread a thin layer of raspberry (or other) jam over the
@@ -25,6 +22,6 @@ gradually beat in the eggs until fluffy. Add the ground almonds and the
 almond essence and beat well. Spoon the mixture over the pastry. Bake for
 30 to 40 minutes.
 
-### Notes
+##### Notes
 The top tends to get very brown or burn so check it and turn down the oven
 temperature if necessary.
