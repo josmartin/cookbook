@@ -4,7 +4,7 @@ courses = ["Accoutrement"]
 tags = ["Hot"]
 date = "2017-04-22T10:10:11Z"
 ingredients=[
-	"⅔ cup chilli flakes ", 
+	"2/3 cup chilli flakes ", 
 	"4 garlic cloves, smashed and peeled",
 	"3 spring onions, cut into thin rings", 
 	"2 tablespoons minced fresh ginger",
@@ -13,7 +13,7 @@ ingredients=[
 +++
 
 ##### Method
-Put everything in a saucepan, heat to 110-120C for 15 minutes.  Do not allow temperature to exceed 120C\*.
+Put everything in a saucepan, heat to 110-120C for 15 minutes.  Do not allow temperature to exceed 120C \*.
 
 ##### Notes
 \* Elwin says 'I walked away from my last batch and it was probably about 140C by the time I came back though I thought I had burnt it (the chilli etc was quite dark red), but actually it tasted fine!'
