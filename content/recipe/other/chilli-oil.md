@@ -4,7 +4,7 @@ courses = ["Accoutrement"]
 tags = ["Hot"]
 date = "2017-04-22T10:10:11Z"
 ingredients=[
-	"2/3 cup chilli flakes ", 
+	"2/3 cup chilli flakes", 
 	"4 garlic cloves, smashed and peeled",
 	"3 spring onions, cut into thin rings", 
 	"2 tablespoons minced fresh ginger",
