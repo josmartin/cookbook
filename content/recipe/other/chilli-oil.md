@@ -9,7 +9,7 @@ ingredients=[
 	"3 spring onions, cut into thin rings", 
 	"2 tablespoons minced fresh ginger",
 	"625ml neutral oil (such as Olive Oil)", 
-	"65ml Sesame oil"]
+	"65ml Sesame Oil"]
 +++
 
 ##### Method
