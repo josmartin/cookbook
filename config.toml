@@ -4,7 +4,6 @@ baseurl = "https://cookbook.bedewell.com"
 paginate = 12 # To specify a multiple of 3
 copyright = "© 2019 <a class=\"sitename\" href=\"https://www.bedewell.com/\">bedewell.com</a>"
 
-
 theme = "cookbook-theme"
 
 [params]
