@@ -1,0 +1,3 @@
+[submodule "themes/cookbook-theme"]
+	path = themes/cookbook-theme
+	url = git://git/cookbook-theme
