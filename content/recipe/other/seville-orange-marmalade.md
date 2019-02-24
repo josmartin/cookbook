@@ -8,8 +8,6 @@ ingredients=[
 	"7 pints water",
 	"7lb sugar"]
 +++
-
-##### Method
 Wash the oranges in cold water, then cut fruit and squeeze all juice into a preserving pan. Take out all pips and pith and place into a muslin bag. Slice orange peel finely and put in preserving pan with orange juice and 6 pints of water. Add 1 pint of boiling water to the pips and pith in the muslin bag. Leave all to stand for 24 hours.
 
 Next day, strain all the liquid, jelly and pectin from the muslin bag and add this to the preserving pan. Cook the peel at a very slow simmer until it all is tender (about 1 1/2 hours). Remove from heat and leave to stand for another 24 hours.

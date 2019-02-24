@@ -1,7 +1,7 @@
 +++
 date = "2017-02-11T13:21:05Z"
 title = "Baked Fruit"
-courses = ["Pudding"]
+courses = ["pudding"]
 tags = []
 ingredients = [
 	"Pears Plums",
@@ -10,10 +10,6 @@ ingredients = [
 	"Cinnamon Water",
 	"Red wine Nectarines"]
 +++
-
-
-##### Method
-
 Pre-heat the oven to 180°C (350°F, Gas Mark 4).
 Cut the plums, peaches, nectarines, etc in halves or quarters and remove the
 stones. Peel, core and slice the apples and pears. Grapes and other soft

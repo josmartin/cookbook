@@ -11,8 +11,6 @@ ingredients = [
     "2 Egg(s) Salt",
     "Black pepper"]
 +++
-
-##### Method
 Dice the courgettes. Chop the spring onions and parsley finely. Saute the courgettes in half the butter. Add the spring onions and parsley. Put the vegetables into a food processor and puree. Beat the eggs. Put the rest of the butter into the pan and lightly scramble the eggs Add the the courgette mixture and puree again. Put into a greased bowl and chill for at least 2 hours. Serve with toast or biscuits.
 
 ##### Variations

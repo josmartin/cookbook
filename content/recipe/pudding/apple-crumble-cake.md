@@ -1,14 +1,12 @@
 +++
 date = "2017-01-29T22:35:04Z"
 title = "Apple Crumble Cake"
-courses = ["Pudding"]
+courses = ["pudding"]
 ingredients = [
     "Wholemeal flour", 
     "Brown sugar",
     "200 gm (8 oz) Apples"]
 +++
-
-##### Method
 Heat the oven to 200°C (400°F, Gas Mark 6).
 Rub the fat into the flour and baking powder. Add the sugar. This can all be
 done in a food processor.

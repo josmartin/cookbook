@@ -3,7 +3,7 @@ date = "2019-01-08T21:49:00Z"
 title = "Seb's Christmas Pudding"
 categories = []
 tags = []
-courses = ["Pudding"]
+courses = ["pudding"]
 ingredients = [
     "50 gm Dried apricots (2 oz)",
     "50 gm Dried pears (2 oz)",
@@ -35,10 +35,6 @@ ingredients = [
     "1 Bottle Port",
     "3 Egg(s)"]
 +++
-
-
-##### Method
-
 Mix all the dry ingredients, the grated apple and the whole bottle of port and
 leave to stand overnight. Beat the eggs and mix with the other ingredients to
 a dropping consistency. Spoon into well-greased pudding basins, cover with

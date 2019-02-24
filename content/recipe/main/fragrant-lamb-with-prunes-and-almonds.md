@@ -22,10 +22,6 @@ ingredients = [
 	"300g chopped tomatoes",
 	"Salt and black pepper"]
 +++
-
-
-#### Method
-
 Preheat the oven to 160C/325F/gas mark 3. Season the lamb generously with salt and pepper, then set aside.
 
 Melt the butter in a large frying pan. Add the onions, sprinkle with a little salt and crumble the saffron on top. Sweat the onions gently for about 5 minutes or until slightly softened. Remove from the heat and stir in the garlic, fresh ginger, cinnamon stick, coriander and cumin seeds, powdered ginger and cayenne pepper. Add the raisins and half the prunes.

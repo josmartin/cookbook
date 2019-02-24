@@ -11,8 +11,6 @@ ingredients=[
 	"625ml neutral oil (such as Olive Oil)", 
 	"65ml Sesame oil"]
 +++
-
-##### Method
 Put everything in a saucepan, heat to 110-120C for 15 minutes.  Do not allow temperature to exceed 120C \*.
 
 ##### Notes

@@ -13,9 +13,6 @@ ingredients = [
 	"1 tsp Baking powder",
 	"1 tsp Vanilla essence"]
 +++
-
-##### Method
-
 Pre-heat the oven to 200°C (400°F, Gas Mark 6).
 
 Cream the butter and sugar. Add the flour, baking powder, cocoa and vanilla

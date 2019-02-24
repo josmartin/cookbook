@@ -20,8 +20,6 @@ ingredients = [
     "1 tsp Basil",
     "300 ml Tomato juice (10 fl oz)"]
 +++
-
-##### Method
 Cut the bread (preferrably brown bread) into cubes and pour the tomato juice over them. Leave to soak for about 5 minutes. Chop the garlic, cucumber, peppers, onion and tomatoes. Put the chopped garlic and all the vegetables into a food processor together with the bread and puree the soup. Add the oil, vinegar, salt, pepper, marjoram and basil and mix well. The soup should be the consistency of single cream so add more tomato juice if necessary. Chill the soup for at least an hour before serving. To serve, chop some cucumber, spring onion, pepper and tomatoes into small dice. Cut some bread into small dice and fry them to make croutons. Ladle the soup into a bowl and spoon a little of each of the garnishes into the soup.
 
 ##### Notes

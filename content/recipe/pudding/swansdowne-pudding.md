@@ -3,7 +3,7 @@ date = "2017-01-30T22:33:52Z"
 title = "Swansdowne Pudding"
 categories = []
 tags = []
-courses = ["Pudding"]
+courses = ["pudding"]
 ingredients = [
     "4 Tbsp Plain flour",
     "3 Tbsp Granulated white sugar",
@@ -12,9 +12,6 @@ ingredients = [
     "2 Egg(s)",
     "2 tsp Vanilla essence"]
 +++
-
-##### Method
-
 Heat the oven to 150°C (300°F, Gas Mark 2).
 Cream the butter and sugar and then add the flour. The amounts make this
 quite difficult but do the best you can. Bring the milk to a boil, taking care not

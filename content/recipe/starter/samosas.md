@@ -16,8 +16,6 @@ ingredients=[
 	"1 tsp Coriander seeds",
 	"1 tsp Salt"]
 +++
-
-##### Method
 Cook the potatoes and allow to cool. Cut them into small dice - about 2cm
 square. 
 

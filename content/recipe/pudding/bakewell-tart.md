@@ -3,7 +3,7 @@ date = "2017-01-29T22:39:06Z"
 title = "Bakewell Tart"
 categories = []
 tags = []
-courses = ["Pudding"]
+courses = ["pudding"]
 ingredients = [
     "100 gm Ground almonds (4 oz)",
     "100 gm Butter or margarine (4 oz)",
@@ -12,8 +12,6 @@ ingredients = [
     "1 tsp Almond essence",
     "Shortcrust pastry"]
 +++
-
-##### Method
 Preheat the oven to 200°C (400°F, Gas Mark 6).
 First line a flan dish with shortcrust pastry - see recipe for Shortcrust Pastry
 or buy ready made. Spread a thin layer of raspberry (or other) jam over the

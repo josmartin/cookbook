@@ -12,9 +12,6 @@ ingredients = [
     "400 gm Condensed milk (14 oz)",
     "200 gm Marie biscuits (8 oz)"]
 +++
-
-##### Method
-
 Melt the butter and sugar in a saucepan. Add the tin of condensed milk and
 the dried fruit and bring to the boil, stirring constantly to avoid the mixture
 catching on the base of the pan and burning. Beat the egg well and stir into
